@@ -44,6 +44,7 @@
     background-color:#fcf7ef;
 }
 .main h1{
+    font-size: 70px;
     /* padding-left: 525px; */
     text-align: center;
     padding-top: 50px;
@@ -91,8 +92,10 @@
     /* border-bottom: 1px solid; */
 }
 .main-2 img{
-    margin-top: 30px;
-    margin-left: 73px;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 53px;
     margin-bottom: 20px;
 }
 .main-2 p{
